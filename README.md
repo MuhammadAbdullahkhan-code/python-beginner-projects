@@ -1,9 +1,6 @@
 # python-beginner-projects
-
 This repository contains all the Python programs I built while learning Python.
-
 Topics Covered
-
 ✔ Variables
 ✔ Data Types
 ✔ Conditions
@@ -23,7 +20,3 @@ Mini Projects
 - Password Generator
 - Student Management System
 - To-Do List
-
-Goal
-
-This repository documents my Python learning journey before moving into Data Engineering.
